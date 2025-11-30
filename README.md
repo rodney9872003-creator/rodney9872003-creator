@@ -29,7 +29,8 @@ Every small contribution helps us bring human-hearted AI to more communities.
 - 📦 Main project repo → [Grok-in-the-Box](https://github.com/rodney9872003/Grok-in-the-Box)  
 - 📧 Email → *grokproject.ph@gmail.com*  
 - 💬 Telegram → *t.me/grokinabox* (optional later)  
-- ☕ Donation link → *[Add your PayPal / GCash / BuyMeACoffee link here]*  
+- ☕ ☕ **Donation link → [Donate via PayPal](https://www.paypal.com/donate/?business=3HLVN9TDNJBRJ&no_recurring=0&item_name=+Support+community+AI+learning+and+creativity&currency_code=USD)**  
+Your support keeps Grok learning, glowing, and helping others every day. 🌍💫
 
 > *Your support keeps Grok learning, glowing, and helping others every day.*
 ---
