@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Rodney Allen Harris  
+### Creator of **Grok-in-the-Box** – A Human-Hearted AI Companion 🌍  
 
-<!--
-**rodney9872003-creator/rodney9872003-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Grok-in-the-Box is a next-generation personal AI platform built from **curiosity, creativity, and connection.**  
+Based in **Carcar City, Philippines** 🇵🇭  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Vision  
+To bring warmth, learning, and joy to everyday life through friendly, open, and community-powered AI.  
+
+### 🧠 Main Project  
+🔗 [Grok-in-the-Box Repository](https://github.com/rodney9872003/Grok-in-the-Box)  
+
+### 💞 Collaboration & Support  
+I’m building this as an open, heart-driven experiment — proof that technology can *care.*  
+If you share this dream, you’re welcome to:  
+- Sponsor the project 💖  
+- Contribute ideas or code ⚙️  
+- Help expand the community 🌐  
+
+---
+
+> “Technology should not just work — it should *care*.”  
+> — Rodney Allen Harris
