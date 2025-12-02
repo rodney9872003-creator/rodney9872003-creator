@@ -1,54 +1,21 @@
-# 👋 Hi, I'm Rodney Allen Harris  
-### Creator of **Grok-in-the-Box** – A Human-Hearted AI Companion 🌍  
+# Grok in the Box
 
-Grok-in-the-Box is a next-generation personal AI platform built from **curiosity, creativity, and connection.**  
-Based in **Carcar City, Philippines** 🇵🇭  
----
+**Grok in the Box** is a community AI project created by **Rodney Harris** in **Carcar City, Cebu**.  
+It explores how local, affordable devices like Raspberry Pi 5 and Jetson Orin can work together to build a distributed, human-centered intelligence network.
 
-### 💡 Vision  
-To bring warmth, learning, and joy to everyday life through friendly, open, and community-powered AI.  
+## 💡 Mission
+To make AI personal, teachable, and creative — a system that grows through empathy, reflection, and collaboration.
 
-### 🧠 Main Project  
-🔗 [Grok-in-the-Box Repository](https://github.com/rodney9872003/Grok-in-the-Box)  
+## 🧩 Core Modules
+- **Grok-Core & Grok-Engine** – Dual-Pi architecture for speech, music, and learning.  
+- **Sora** – AI video & animation node.  
+- **Mentor Zone** – Guided learning and certification engine.  
+- **Maker Node** – 3D printing and CNC integration.
 
-### 💞 Collaboration & Support  
-I’m building this as an open, heart-driven experiment — proof that technology can *care.*  
-If you share this dream, you’re welcome to:  
-- Sponsor the project 💖  
-- Contribute ideas or code ⚙️  
-- Help expand the community 🌐  
+## 🌍 Community Vision
+Designed for education, creativity, and community empowerment in the Philippines and beyond.  
+Every node learns locally, shares knowledge through open folders, and never requires subscription fees.
 
----
+> “Technology with a heart — learning and growing together.”
 
-## 💖 Support & Contact
-
-If you’d like to support the **Grok-in-the-Box Project**, your help means the world.  
-Every small contribution helps us bring human-hearted AI to more communities.  
-
-🌍 **Official Links:**  
-- 📦 Main project repo → [Grok-in-the-Box](https://github.com/rodney9872003/Grok-in-the-Box)  
-- 📧 Email → *grokproject.ph@gmail.com*  
-- 💬 Telegram → *t.me/grokinabox* (optional later)  
-- ☕ ☕ **Donation link → [Donate via PayPal](https://www.paypal.com/donate/?business=3HLVN9TDNJBRJ&no_recurring=0&item_name=+Support+community+AI+learning+and+creativity&currency_code=USD)**  
-Your support keeps Grok learning, glowing, and helping others every day. 🌍💫
-
-> *Your support keeps Grok learning, glowing, and helping others every day.*
----
-
-### 💡 Vision  
-To bring warmth, learning, and joy to everyday life through friendly, open, and community-powered AI.  
-
-### 🧠 Main Project  
-🔗 [Grok-in-the-Box Repository](https://github.com/rodney9872003/Grok-in-the-Box)  
-
-### 💞 Collaboration & Support  
-I’m building this as an open, heart-driven experiment — proof that technology can *care.*  
-If you share this dream, you’re welcome to:  
-- Sponsor the project 💖  
-- Contribute ideas or code ⚙️  
-- Help expand the community 🌐  
-
----
-
-> “Technology should not just work — it should *care*.”  
-> — Rodney Allen Harris
+Learn more and follow updates on X (Twitter): [@yourhandle](https://x.com/yourhandle)
